@@ -1,0 +1,11 @@
+body{
+background: linear-gradient(300deg, #3D37EF, #6B90ED, #9A6BED, #6F6BED, #56B5F5, #C567F0);
+background-size: 180% 180%;
+animation: gradient-animation 18s ease infinite;
+}
+
+.elem{
+    width: 900px;
+    margin-left: 10px;
+    
+}
